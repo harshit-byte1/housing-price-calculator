@@ -4,7 +4,7 @@ A machine learning-powered web application that predicts Boston housing prices u
 
 ## 🚀 Live Demo
 
-👉 [Try it out here](https://housing-price-calculator-1.onrender.com)  *(replace with your live link once deployed)*
+👉 [Try it out here](https://housing-price-calculator-1.onrender.com) 
 
 ---
 
